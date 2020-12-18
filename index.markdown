@@ -17,3 +17,6 @@ Initially, we were thinking of looking at the average number of tweets during a 
 Therefore, we decided to look closer at each individual country to see if we could gain some insight using country specific holidays (i.e. American tweeters and Thanksgiving.).
 
 {% include filename.html %}
+
+{% include tweet.html %}
+
