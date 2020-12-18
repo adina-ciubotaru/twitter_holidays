@@ -5,4 +5,4 @@
 layout : default
 ---
 
-{% include assets/filename.html %}
+{% include filename.html %}
