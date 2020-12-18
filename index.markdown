@@ -4,11 +4,8 @@
 
 layout : default
 ---
-#### Header
-### Header
-## Header
-# Header
-Text
 
-{% include filename.html %}
+Rumor has it that people spend more time on social media during holidays. Does this fact apply to Twitter? Companies certainly don’t miss the occasion for advertising their products. So how many people are in danger of seeing something they really want to buy and almost definitely don’t need? Let’s look at the data. 
+
+
 {% include filename.html %}
