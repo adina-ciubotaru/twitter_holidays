@@ -6,3 +6,4 @@ layout : default
 ---
 
 {% include filename.html %}
+{% include filename.html %}
