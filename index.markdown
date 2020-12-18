@@ -11,4 +11,7 @@ In order to reduce the noise of the initial twitter data we decide to group all 
 
 {% include story.html %}
 
+Initially, we were thinking of looking at the average number of tweets during a specific holiday week such as Christmas or Thanksgiving and compare it with the average number. However when including all countries this analytical task becomes hard to interpret, as it seems like the majority of users are most active during the summer and fall. 
+Therefore, we decided to look closer at each individual country to see if we could gain some insight using country specific holidays (i.e. American tweeters and Thanksgiving.).
+
 {% include filename.html %}
